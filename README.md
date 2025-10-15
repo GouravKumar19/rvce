@@ -1,11 +1,21 @@
-Step To Follow:                                                                                                                                                                                                                                
-First Install NodeJs in Your System                                                                                                                                                                                                        
-Download All the File as it is                                                                                                                                                        
-In VS Code Terminal:                                                                                                                                                                
-                         1.On the command line, navigate to the root directory of your package.                                                                                                                                                
-                         2.cd /path/to/package                                                                                                                                                                        
-                         3.Run the following command:                                                                                                                                                                
-                         4.npm init                                                                                                                                                                        
-                         5.Answer the questions in the command line questionnaire.                                                                                                                                                                        
-After following all the step above now you are about to launch a website on your own                                                                                                                                                
-Just go agin in terminal window and on the same root directory type "node index.js"
+Steps to Follow
+
+Install Node.js on your system.
+
+Download all the project files as provided.
+
+Open the project in VS Code and follow the steps below in the terminal:
+
+       Navigate to the root directory of your project:
+
+           cd /path/to/project
+
+
+      Initialize a new Node.js project by running:
+
+           npm init
+
+
+Follow the prompts in the command-line questionnaire to complete the setup.
+
+After completing these steps, you’ll be ready to launch your own website successfully!                                                                                                                                              
